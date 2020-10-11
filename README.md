@@ -1,0 +1,2 @@
+# Faustyka
+My first repository
